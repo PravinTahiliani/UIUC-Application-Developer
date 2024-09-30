@@ -47,6 +47,7 @@ people_completed_fy2024.json
 expiring_trainings.json
 
 Notes
+
 The script can handle different training data in the same format as trainings.txt.
 You can modify the fiscal year or date as needed for tasks 2 and 3 by adjusting the values within the script.
 This README.md provides an overview of the project, explanation of the tasks, instructions for running the application, and expected outputs.

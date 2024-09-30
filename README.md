@@ -1,7 +1,9 @@
 The trainings_app.py Python script processes training completion data from a JSON file (trainings.txt) and generates output in the following ways:
 
 **Task 1:** Counts how many people have completed each unique training and stores the count in completed_trainings.json.
+
 **Task 2**: For a specified list of trainings, it lists all people who completed each training during the fiscal year 2024 (defined as July 1st, 2023 – June 30th, 2024). Results are stored in people_completed_fy2024.json.
+
 **Task 3**: Identifies people whose trainings have expired or will expire soon (within one month of a given date, in this case October 1st, 2023) and stores the results in expiring_trainings.json.
 
 **File Structure**

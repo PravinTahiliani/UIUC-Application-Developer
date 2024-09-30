@@ -14,6 +14,7 @@ people_completed_fy2024.json: Output for Task 2, listing people who completed sp
 expiring_trainings.json: Output for Task 3, listing people whose trainings have expired or will expire soon (as of October 1st, 2023).
 
 Explanation of the Tasks
+
 **Task 1**: Count Completed Trainings
 The application reads the trainings.txt file, which contains a list of people and their training completion records. For each unique training, it calculates how many people have completed it and writes the results to completed_trainings.json.
 

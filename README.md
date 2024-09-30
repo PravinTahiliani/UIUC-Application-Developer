@@ -33,11 +33,17 @@ It lists people whose trainings match these criteria and indicates whether the t
 **How to Run the Application**
 
 Prerequisites:
+
 Ensure that you have Python 3.x installed on your system.
+
 Steps:
+
 Clone the repository:
+
 **git clone https://github.com/PravinTahiliani/UIUC-Application-Developer.git**
+
 **cd UIUC-Application-Developer**
+
 Ensure that you have the correct files:
 
 trainings_app.py (script)

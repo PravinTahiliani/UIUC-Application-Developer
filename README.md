@@ -31,9 +31,6 @@ Prerequisites:
 Ensure that you have Python 3.x installed on your system.
 Steps:
 Clone the repository:
-
-bash
-Copy code
 **git clone https://github.com/PravinTahiliani/UIUC-Application-Developer.git**
 **cd UIUC-Application-Developer**
 Ensure that you have the correct files:

@@ -44,6 +44,10 @@ Clone the repository:
 
 **cd UIUC-Application-Developer**
 
+Run the application:
+
+**py trainings_app.py**
+
 Ensure that you have the correct files:
 
 trainings_app.py (script)

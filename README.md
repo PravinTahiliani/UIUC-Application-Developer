@@ -31,6 +31,7 @@ Will expire within one month of October 1st, 2023.
 It lists people whose trainings match these criteria and indicates whether the training is "expired" or "expires soon." The results are saved to expiring_trainings.json.
 
 **How to Run the Application**
+
 Prerequisites:
 Ensure that you have Python 3.x installed on your system.
 Steps:
